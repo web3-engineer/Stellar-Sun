@@ -1,2 +1,2 @@
-# Ethereum-Basics
-O básico que você precisa para entender um repositório de um projeto na blockchain ethereum.
+# Stellar sun
+#We all know that the sun power is stellar.
